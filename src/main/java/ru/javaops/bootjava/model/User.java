@@ -1,8 +1,7 @@
 package ru.javaops.bootjava.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
+import org.springframework.data.jpa.domain.AbstractPersistable;
 
 import java.util.Set;
 
